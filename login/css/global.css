@@ -1,0 +1,9 @@
+*{color:azure}
+
+.bg{background: url('../images/bg-1-full.jpg') no-repeat; width:100%; height:100vh;}
+.form-container {border:0px solid #ffff; padding:40px 60px; margin-top:20vh;
+-webkit-box-shadow: 10px 10px 161px 0px rgba(0,0,0,0.50);
+-moz-box-shadow: 10px 10px 161px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 161px 0px rgba(0,0,0,0.75);
+
+}
